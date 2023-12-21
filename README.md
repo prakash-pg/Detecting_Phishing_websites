@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 - The RandomForestClassifier is trained on a subset of features selected for the analysis.
 - The model is evaluated using accuracy scores on both the training and test sets.
-- The trained model is saved as a pickle file (`Phishing.pickle`) for future use.
+- The trained model is saved as a pickle file (Phishing.pickle) for future use.
 
 ## Results
 
