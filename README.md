@@ -6,8 +6,6 @@ This repository contains code for a machine learning model to detect phishing we
 
 The dataset contains information about different websites with 49 features. The features include numerical and binary attributes related to the structure and content of the URLs. The target variable, `CLASS_LABEL`, indicates whether a website is classified as phishing (1) or not (0).
 
-## Getting Started
-
 ### Prerequisites
 
 Make sure you have the following libraries installed:
