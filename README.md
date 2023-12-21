@@ -1,10 +1,10 @@
 # Phishing Website Detection
 
-This repository contains code for a machine learning model to detect phishing websites based on various features. The dataset used in this analysis is stored in the file `Phishing.csv`. The model is implemented using the RandomForestClassifier from scikit-learn.
+This repository contains code for a machine learning model to detect phishing websites based on various features. The dataset used in this analysis is stored in the file Phishing.csv. The model is implemented using the RandomForestClassifier from scikit-learn.
 
 ## Dataset Description
 
-The dataset contains information about different websites with 49 features. The features include numerical and binary attributes related to the structure and content of the URLs. The target variable, `CLASS_LABEL`, indicates whether a website is classified as phishing (1) or not (0).
+The dataset contains information about different websites with 49 features. The features include numerical and binary attributes related to the structure and content of the URLs. The target variable, CLASS_LABEL, indicates whether a website is classified as phishing (1) or not (0).
 
 ### Prerequisites
 
